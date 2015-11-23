@@ -1,10 +1,3 @@
-links
-[SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) 
-[GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
-[Leaflet](http://leafletjs.com/)
-[GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format)
-[CSV](https://en.wikipedia.org/wiki/Comma-separated_values)
-[SHP](https://en.wikipedia.org/wiki/Shapefile)
 # Idris tools documentation
 
 Documentation for Idris online cartography tools

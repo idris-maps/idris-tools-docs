@@ -34,6 +34,8 @@ Draw on a black and white background map and download the result as a [GeoJSON](
 
 ### Convert
 
+![Convert](/master/img/tool-converter.png)
+
 Convert [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format), [CSV](https://en.wikipedia.org/wiki/Comma-separated_values) and [SHP](https://en.wikipedia.org/wiki/Shapefile) files to [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
 
 [Link](http://www.idris-maps.com/tools/convert)

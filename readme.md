@@ -2,6 +2,8 @@
 
 Documentation for Idris online cartography tools
 
+[Get started](/get-started)
+
 ## The tools
 
 ### Map image
@@ -42,7 +44,11 @@ Convert [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format), [CSV](https://
 
 ### Edit GeoJSON
 
-Edit GeoJSON files. Add, update and remove properties. Select features by property or by bounding box.
+Edit [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) files. 
+
+Add, update and remove properties. 
+
+Select features by property or by bounding box.
 
 <img src="/img/tool-query.png" width="150" />
 

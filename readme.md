@@ -8,7 +8,7 @@ Documentation for Idris online cartography tools
 
 Create a [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) image from [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON) files.
 
-![Convert](/img/tool-map-image.png | width=200)
+<img src="/img/tool-map-image.png" style="width:100px;height:auto" />
 
 [Link](http://www.idris-maps.com/tools/image-map)
 [Docs](/image-map)

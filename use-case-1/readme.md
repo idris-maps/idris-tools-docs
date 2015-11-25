@@ -40,7 +40,7 @@ Now in order to use the coordinates on the web we need to convert our spreadshee
 It is time to create our map. 
 
 * Go to [Zoomable map](http://www.idris-maps.com/tools/zoomable-map)
-* Drop ``branches.json``` in the designated area
+* Drop ```branches.json``` in the designated area
 * You will now see a marker representing each branch on a white background
 * Click the tiles button to choose the background map
 
@@ -72,7 +72,7 @@ Time to add the map to your website.
 
 * Download the script
 * Open the HTML page  to which you want to add the map
-* Add the links to LeafletJS script and CSS as well as a link to the downloaded script in the head of your HTML. You can copy the links from the **script** screen
+* Add the links to [LeafletJS](http://leafletjs.com/) script and CSS as well as a link to the downloaded script in the head of your HTML. You can copy the links from the **script** screen
 * In your HTML add a ```<div>``` where you want to have the map. It needs to have an ID and a defined height. If no height is specified, it will be zero.
 * At the end of the body of the HTML declare to which element you want to add the map (the ```<div>``` you just created) by adding a script element like this
 
@@ -88,7 +88,7 @@ In this case we suppose that the ID of the div is **mapDiv**. It could be anythi
 
 ### That's it, you have a map on your website
 
-You can see the result [here]()
+You can see the result [here](http://bl.ocks.org/idris-maps/raw/53de9911c8b1a576adab/) or look at an example code [here](https://github.com/idris-maps/idris-tools-docs/blob/master/use-case-1/a-page-on-your-website.html)
 
 
 

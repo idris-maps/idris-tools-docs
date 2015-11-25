@@ -1,6 +1,6 @@
 # Idris draw a map
 
-![Idris draw a map](/idris-maps/idris-tools-docs/master/img/tool-draw.png)
+<img src="/idris-maps/idris-tools-docs/master/img/tool-draw.png" alt="Idris draw a map" width="150" />
 
 Documentation for the [Idris draw a map](http://www.idris-maps.com/tools/draw-map) online tool
 

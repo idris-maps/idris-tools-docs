@@ -1,6 +1,6 @@
 # Idris image map
 
-![Idris image map](/idris-maps/idris-tools-docs/master/img/tool-map-image.png)
+<img src="/img/tool-map-image.png" alt="Idris image map" width="150" />
 
 Documentation for the [Idris image map](http://www.idris-maps.com/tools/image-map) online tool
 

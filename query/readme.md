@@ -1,6 +1,6 @@
 # Idris edit GeoJSON
 
-<img src="/idris-maps/idris-tools-docs/master/img/tool-query.png" alt="Idris edit GeoJSON" width="150" />
+<img src="/img/tool-query.png" alt="Idris edit GeoJSON" width="150" />
 
 Documentation for the [Idris edit GeoJSON](http://www.idris-maps.com/tools/query) online tool
 

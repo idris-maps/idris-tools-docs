@@ -1,6 +1,6 @@
 # Idris zoomable map
 
-<img src="/idris-maps/idris-tools-docs/master/img/tool-zoomable-map.png" alt="Idris zoomable map" width="150" />
+<img src="/img/tool-zoomable-map.png" alt="Idris zoomable map" width="150" />
 
 Documentation for the [Idris zoomable map](http://www.idris-maps.com/tools/zoomable-map) online tool
 

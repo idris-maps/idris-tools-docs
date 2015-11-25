@@ -1,6 +1,6 @@
 # Idris convert to GeoJSON
 
-<img src="/idris-maps/idris-tools-docs/master/img/tool-converter.png" alt="Idris convert to GeoJSON" width="150" />
+<img src="/img/tool-converter.png" alt="Idris convert to GeoJSON" width="150" />
 
 Documentation for the [Idris convert to GeoJSON](http://www.idris-maps.com/tools/convert) online tool
 

@@ -1,6 +1,6 @@
 # Idris tools documentation
 
-Documentation for Idris online cartography tools
+Documentation for [Idris online cartography](http://www.idris-maps.com) tools
 
 [Get started](/get-started)
 
@@ -13,6 +13,7 @@ Create a [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics) image fro
 <img src="/img/tool-map-image.png" width="150" />
 
 [Link](http://www.idris-maps.com/tools/image-map)
+
 [Docs](/image-map)
 
 ### Zoomable map
@@ -22,6 +23,7 @@ An easy way to integrate a [Leaflet](http://leafletjs.com/) map to your website.
 <img src="/img/tool-zoomable-map.png" width="150" />
 
 [Link](http://www.idris-maps.com/tools/zoomable-map)
+
 [Docs](/zoomable-map)
 
 ### Draw a map
@@ -31,6 +33,7 @@ Draw on a black and white background map and download the result as a [GeoJSON](
 <img src="/img/tool-draw.png" width="150" />
 
 [Link](http://www.idris-maps.com/tools/draw-map)
+
 [Docs](/draw-map)
 
 ### Convert
@@ -40,6 +43,7 @@ Convert [GPX](https://en.wikipedia.org/wiki/GPS_Exchange_Format), [CSV](https://
 <img src="/img/tool-converter.png" width="150" />
 
 [Link](http://www.idris-maps.com/tools/convert)
+
 [Docs](/convert)
 
 ### Edit GeoJSON
@@ -53,5 +57,6 @@ Select features by property or by bounding box.
 <img src="/img/tool-query.png" width="150" />
 
 [Link](http://www.idris-maps.com/tools/convert)
+
 [Docs](/query)
 

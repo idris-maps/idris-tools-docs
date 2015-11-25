@@ -12,9 +12,10 @@ You have a company with branches in different cities and want to show where they
 
 Idris-map only has one office so far. For this example, we will use 50 randomly generarted postal adresses that we got [here](https://www.randomlists.com/random-addresses). You can download the file above, ```random-adresses.tsv``` and open it in your favorite spreadsheet. We use [gnumeric](http://www.gnumeric.org) but LibreOffice or Excel work fine as well.
 
+* If your adresses do not have a unique ID, create one by adding a column in the spreadsheet
+
 To get the coordinates, we will use one of the numerous [online batch geocoders](https://www.google.ch/search?q=batch+geocoding). We picked [this one](http://www.findlatitudeandlongitude.com/batch-geocode). 
 
-* If your adresses do not have a unique ID, create one by adding a column in the spreadsheet
 * Copy the ID and adress columns in the **input** section an press **geocode**
 * Wait until the geocoding is done
 * Copy the **output** section and paste it in your spreadsheet 
@@ -90,7 +91,7 @@ In this case we suppose that the ID of the div is **mapDiv**. It could be anythi
 
 ### That's it, you have a map on your website
 
-You can see the result [here](http://bl.ocks.org/idris-maps/raw/53de9911c8b1a576adab/) or look at an example code [here](https://github.com/idris-maps/idris-tools-docs/blob/master/use-case-1/a-page-on-your-website.html)
+You can see the result [here](http://bl.ocks.org/idris-maps/raw/53de9911c8b1a576adab/) or look at an example HTML [here](https://github.com/idris-maps/idris-tools-docs/blob/master/use-case-1/a-page-on-your-website.html)
 
 
 

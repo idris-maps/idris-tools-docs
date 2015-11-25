@@ -6,6 +6,8 @@ An example usage of [Idris online tools](http://www.idris-maps.com)
 
 You have a company with branches in different cities and want to show where they are on a map on your website.
 
+![](use_case_1.png)
+
 ### 1. Convert adresses to coordinates
 
 Idris-map only has one office so far. For this example, we will use 50 randomly generarted postal adresses that we got [here](https://www.randomlists.com/random-addresses). You can download the file above, ```random-adresses.tsv``` and open it in your favorite spreadsheet. We use [gnumeric](http://www.gnumeric.org) but LibreOffice or Excel work fine as well.

@@ -18,7 +18,7 @@ We get the number of inhabitants per commune from [Swiss statistics](http://www.
 * commune_name
 * pop
 
-[Download it here]()
+[Download it here](https://raw.githubusercontent.com/idris-maps/idris-tools-docs/master/use-case-2/communes_population.tsv)
 
 #### The commune geometries
 

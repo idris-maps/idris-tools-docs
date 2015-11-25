@@ -8,6 +8,8 @@ A map showing the population distribution of Switzerland.
 
 The result we are looking for:
 
+![](map.png)
+
 ### 1. Preparing the data
 
 #### The number of inhabitants per commune

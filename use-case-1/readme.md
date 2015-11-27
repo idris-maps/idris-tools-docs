@@ -76,6 +76,9 @@ Time to add the map to your website.
 * Download the script
 * Open the HTML page  to which you want to add the map
 * Add the links to [LeafletJS](http://leafletjs.com/) script and CSS as well as a link to the downloaded script in the head of your HTML. You can copy the links from the **script** screen
+
+<img src="/img/screenshot-2.png" alt="" width="250" />
+
 * In your HTML add a ```<div>``` where you want to have the map. It needs to have an ID and a defined height. If no height is specified, it will be zero.
 * At the end of the body of the HTML declare to which element you want to add the map (the ```<div>``` you just created) by adding a script element like this
 

@@ -26,7 +26,7 @@ To add another layer, click the **Add layer** button
 
 Click the **Style** button
 
-<img src="/img/icon-add.png" width="50" />
+<img src="/img/icon-bucket.png" width="50" />
 
 Choose layer to style
 
@@ -112,5 +112,5 @@ Choose a name for the file and **Download**
 
 The downloaded file is a [vector image](https://en.wikipedia.org/wiki/Vector_graphics) in [SVG](https://en.wikipedia.org/wiki/Scalable_Vector_Graphics)
 
-Most layout programs can read SVG. It can also be read by browsers. But sometimes you need a [raster image](https://en.wikipedia.org/wiki/Raster_graphics). Common graphics programs such as [Inkscape](https://inkscape.org/en/) or [GIMP](https://www.gimp.org/) will do that. If you do not have any of them installed try with an [online converter](https://www.google.ch/search?q=convert+svg+to+png+online).
+Most layout programs can read SVG. It can also be read by browsers. But sometimes you need a [raster image](https://en.wikipedia.org/wiki/Raster_graphics). Common graphics programs such as [Inkscape](https://inkscape.org/en/) or [GIMP](https://www.gimp.org/) will convert the SVG to a raster format like PNG or JPG. If you do not have any of them installed try with an [online converter](https://www.google.ch/search?q=convert+svg+to+png+online).
 

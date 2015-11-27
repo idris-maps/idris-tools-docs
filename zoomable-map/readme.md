@@ -60,6 +60,8 @@ This is only possible with points
 * Choose the property that should be displayed
 * Choose the font family and font size
 
+Note that the property can include HTML to show links or images
+
 #### Style by property
 
 * Click the **Style** button and choose a point layer
@@ -87,7 +89,7 @@ You can set the longitude, latitude and zoom level of the center manually by cli
 
 Click on the **Tiles** button to choose a tile service provider and click **Add tile service**
 
-<img src="/img/icon-canvas.png" width="50" />
+<img src="/img/icon-tiles.png" width="50" />
 
 ### Get the script to add to your website
 

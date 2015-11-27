@@ -6,7 +6,7 @@ An example usage of [Idris online tools](http://www.idris-maps.com)
 
 You have a company with branches in different cities and want to show where they are on a map on your website.
 
-![](use_case_1.png)
+<img src="/img/use_case_1.png" alt="" width="100%" />
 
 ### 1. Convert adresses to coordinates
 
@@ -32,7 +32,7 @@ Now in order to use the coordinates on the web we need to convert our spreadshee
 * You will be asked if the first column is the header. If you used our random adresses, click **No**
 * Fill in the name of each column as in the screenshot below
 
-![](screenshot-1.png)
+<img src="/img/screenshot_1.png" alt="" width="150" />
 
 * Choose which column corresponds to **latitude** and **longitude**. We called them just that in the previous screen. Click **OK**
 * Download your GeoJSON by clicking the **Download** button
@@ -47,7 +47,7 @@ It is time to create our map.
 * You will now see a marker representing each branch on a white background
 * Click the tiles button to choose the background map
 
-![](icon-tiles.png)
+<img src="/img/icon-tiles.png" alt="" width="50" />
 
 * I choose **NASA night**. Try them out to find the one that suits you.
 
@@ -55,7 +55,7 @@ When a user clicks on the map we want to display the name of the branch.
 
 * Click the style button 
 
-![](icon-bucket.png)
+<img src="/img/icon-bucket.png" alt="" width="50" />
 
 * Choose to **style** the **branches** layer
 * Click the **Labels** button
@@ -71,7 +71,7 @@ Time to add the map to your website.
 
 * Click the **script** button
 
-![](icon-script.png)
+<img src="/img/icon-script.png" alt="" width="50" />
 
 * Download the script
 * Open the HTML page  to which you want to add the map

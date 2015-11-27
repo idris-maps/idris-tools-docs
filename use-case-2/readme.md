@@ -8,7 +8,7 @@ A map showing the population distribution of Switzerland.
 
 The result we are looking for:
 
-![](map.png)
+<img src="/img/use_case_2.png" alt="" width="100%" />
 
 ### 1. Preparing the data
 
@@ -97,7 +97,7 @@ Now lets style the data
 
 * Click the **style** button
 
-![](icon-bucket.png)
+<img src="/img/icon-bucket.png" alt="" width="50" />
 
 * Choose to style the **with_pop** layer
 * Click the **Style by property** button as we want to set the color of the commune according to its population
@@ -128,7 +128,7 @@ For the icing on the cake let's add the bigger swiss lakes.
 * Download the data [here](https://raw.githubusercontent.com/idris-maps/idris-geodata/master/switzerland/lakes_1%25.json) and call the file ```lakes.json```
 * Click the **Add layer button**
 
-![](icon-add.png)
+<img src="/img/icon-add.png" alt="" width="50" />
 
 * Drop ```lakes.json```
 * Click the **style** button
@@ -144,7 +144,7 @@ We want to have a light blue color on the lakes
 
 * Click the **Image** button to download your map
 
-![](icon-image.png)
+<img src="/img/icon-image.png" alt="" width="50" />
 
 * Give it a name and click **Download**
 

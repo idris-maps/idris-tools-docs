@@ -3,8 +3,11 @@
 ## Example use cases
 
 * [Put all your company's branches on a map on your website](/use-case-1)
+
 <img src="/img/use_case_1.png" alt="" width="200" />
+
 * [Make a population density map of Switerland](/use-case-2)
+
 <img src="/img/use_case_2.png" alt="" width="200" />
 
 ## Do you have geodata ?

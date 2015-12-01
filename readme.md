@@ -1,5 +1,10 @@
 # Get started with Idris online tools
 
+* [Example use cases](#use-cases)
+* [Do you have Geodata ?](#geodata)
+* [The tools](#tools)
+
+<a name="use-cases"></a>
 ## Example use cases
 
 * [Put all your company's branches on a map on your website](/use-case-1)
@@ -10,6 +15,7 @@
 
 <img src="/img/use_case_2.png" alt="" width="200" />
 
+<a name="geodata"></a>
 ## Do you have geodata ?
 
 ### Yes
@@ -37,6 +43,7 @@ If you need other administrative areas, check out [Mapzen borders](https://mapze
 
 If you have a list of adresses for which you want to find the coordinates, there are many [geocoding tools](https://www.google.ch/search?q=batch+geocoding) online. They often use Google Maps. To convert the result to GeoJSON, you can copy-paste it in our [converter](../convert). Check out our example for a [tutorial](/use-case-1) on how to do that.
 
+<a name="tools"></a>
 ## The tools
 
 ### Map image

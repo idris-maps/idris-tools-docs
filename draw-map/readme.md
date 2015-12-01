@@ -47,10 +47,10 @@ Close the polygon by clicking on the first point
 Click on the feature to which you want to add a feature. A popup will show with a **Properties** button. It opens a side panel where you can add the key and value of properties.
 
 Example:
-	* Key: **name**
-	* Value: **My house**
+* Key: **name**
+* Value: **My house**
 
-Remove properties by clicking the **Remove property** button and choosing a property in the drop down menu.
+Remove properties by clicking the **Remove property** button and choosing a property in the drop-down menu.
 
 ### Edit a feature
 
@@ -72,7 +72,7 @@ Click on the features to delete. Save by clicking **save** beside the **delete**
 
 Click the **Download** icon
 
-<img src="/img/icon_download.png" width="50" />
+<img src="/img/icon-download.png" width="50" />
 
 Choose a name for your file and click **Download**
 
